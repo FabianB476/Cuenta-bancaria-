@@ -1,18 +1,70 @@
- # 💫 About Me:
-¡Hola! Soy un apasionado programador de 40 años de Ecuador, con una sólida experiencia en el desarrollo de software y un enfoque constante hacia la innovación. Mi carrera está construida sobre una base de conocimientos profundos en diversas tecnologías, lenguajes de programación y metodologías ág.<br><br>A lo largo de mi carrera, he tenido la oportunidad de colaborar en diversos proyectos, siempre buscando la excelencia y ofreciendo soluciones eficientes y creativas. Mi objetivo es sobresalir, no solo como un profesional técnico, sino como un verdadero líder de ideas y proyectos. Me apasiona emprender, y tengo una visión clara de cómo las tecnologías pueden transformar<br><br>Estoy en busca de oportunidades donde pueda aportar mi experiencia, aprender de otros y crecer como profesional. Mi motivación no solo se basa en lograr resultados, sino en hacer parte de equipos que están dispuestos a desafiar el status quo y llevar las ideas al siguiente nivel. Si eres parte de un proyecto que necesita visión, habilidades técnicas y mucha energía, ¡estoy listo para unirme a tu equipo!<br><br>Con una actitud proactiva y un enfoque constante en mejorar, estoy ansioso de aportar mi experiencia y continuar creciendo en este apasionante mundo de la programación y el emprendimiento. Si tienes un proyecto o una idea que quieras hacer realidad, ¡no dud!
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
+<div align="center" width="50">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CyberMAS ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CyberMAS) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CyberMAS) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CyberMAS) 
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=¡Hola! Soy un apasionado programador de 40 años de Ecuador, con una sólida experiencia en el desarrollo de software y un enfoque constante hacia la innovación. Mi carrera está construida sobre una base de conocimientos profundos en diversas tecnologías, lenguajes de programación y metodologías ágiles, lo que me permite adaptarme rápidamente a nuevas herramientas y desafíos.  A lo largo de mi carrera, he tenido la oportunidad de colaborar en proyectos diversos, siempre buscando la excelencia y ofreciendo soluciones eficientes y creativas. Mi objetivo es sobresalir, no solo como un profesional técnico, sino como un verdadero líder de ideas y proyectos. Me apasiona emprender, y tengo una visión clara de cómo las tecnologías pueden transformar negocios, mejorar procesos y crear experiencias únicas para los usuarios.  Estoy en busca de oportunidades donde pueda aportar mi experiencia, aprender de otros y crecer como profesional. Mi motivación no solo se basa en lograr resultados, sino en hacer parte de equipos que estén dispuestos a desafiar el status quo y llevar las ideas al siguiente nivel. Si eres parte de un proyecto que necesita visión, habilidades técnicas y mucha energía, ¡estoy listo para unirme a tu equipo!  Con una actitud proactiva y un enfoque constante en mejorar, estoy ansioso de aportar mi experiencia y continuar creciendo en este emocionante mundo de la programación y el emprendimiento. Si tienes un proyecto o una idea que quieras hacer realidad, ¡no dudes en contactarme!  ---  Este texto está diseñado para destacar tu experiencia, tu pasión por emprender y tu disposición a unirte a proyectos interesantes. ¡Espero que te sirva!&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=¡Hola! Soy un apasionado programador de 40 años de Ecuador, con una sólida experiencia en el desarrollo de software y un enfoque constante hacia la innovación. Mi carrera está construida sobre una base de conocimientos profundos en diversas tecnologías, lenguajes de programación y metodologías ágiles, lo que me permite adaptarme rápidamente a nuevas herramientas y desafíos.  A lo largo de mi carrera, he tenido la oportunidad de colaborar en proyectos diversos, siempre buscando la excelencia y ofreciendo soluciones eficientes y creativas. Mi objetivo es sobresalir, no solo como un profesional técnico, sino como un verdadero líder de ideas y proyectos. Me apasiona emprender, y tengo una visión clara de cómo las tecnologías pueden transformar negocios, mejorar procesos y crear experiencias únicas para los usuarios.  Estoy en busca de oportunidades donde pueda aportar mi experiencia, aprender de otros y crecer como profesional. Mi motivación no solo se basa en lograr resultados, sino en hacer parte de equipos que estén dispuestos a desafiar el status quo y llevar las ideas al siguiente nivel. Si eres parte de un proyecto que necesita visión, habilidades técnicas y mucha energía, ¡estoy listo para unirme a tu equipo!  Con una actitud proactiva y un enfoque constante en mejorar, estoy ansioso de aportar mi experiencia y continuar creciendo en este emocionante mundo de la programación y el emprendimiento. Si tienes un proyecto o una idea que quieras hacer realidad, ¡no dudes en contactarme!  ---  Este texto está diseñado para destacar tu experiencia, tu pasión por emprender y tu disposición a unirte a proyectos interesantes. ¡Espero que te sirva!&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=¡Hola! Soy un apasionado programador de 40 años de Ecuador, con una sólida experiencia en el desarrollo de software y un enfoque constante hacia la innovación. Mi carrera está construida sobre una base de conocimientos profundos en diversas tecnologías, lenguajes de programación y metodologías ágiles, lo que me permite adaptarme rápidamente a nuevas herramientas y desafíos.  A lo largo de mi carrera, he tenido la oportunidad de colaborar en proyectos diversos, siempre buscando la excelencia y ofreciendo soluciones eficientes y creativas. Mi objetivo es sobresalir, no solo como un profesional técnico, sino como un verdadero líder de ideas y proyectos. Me apasiona emprender, y tengo una visión clara de cómo las tecnologías pueden transformar negocios, mejorar procesos y crear experiencias únicas para los usuarios.  Estoy en busca de oportunidades donde pueda aportar mi experiencia, aprender de otros y crecer como profesional. Mi motivación no solo se basa en lograr resultados, sino en hacer parte de equipos que estén dispuestos a desafiar el status quo y llevar las ideas al siguiente nivel. Si eres parte de un proyecto que necesita visión, habilidades técnicas y mucha energía, ¡estoy listo para unirme a tu equipo!  Con una actitud proactiva y un enfoque constante en mejorar, estoy ansioso de aportar mi experiencia y continuar creciendo en este emocionante mundo de la programación y el emprendimiento. Si tienes un proyecto o una idea que quieras hacer realidad, ¡no dudes en contactarme!  ---  Este texto está diseñado para destacar tu experiencia, tu pasión por emprender y tu disposición a unirte a proyectos interesantes. ¡Espero que te sirva!&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=¡Hola! Soy un apasionado programador de 40 años de Ecuador, con una sólida experiencia en el desarrollo de software y un enfoque constante hacia la innovación. Mi carrera está construida sobre una base de conocimientos profundos en diversas tecnologías, lenguajes de programación y metodologías ágiles, lo que me permite adaptarme rápidamente a nuevas herramientas y desafíos.  A lo largo de mi carrera, he tenido la oportunidad de colaborar en proyectos diversos, siempre buscando la excelencia y ofreciendo soluciones eficientes y creativas. Mi objetivo es sobresalir, no solo como un profesional técnico, sino como un verdadero líder de ideas y proyectos. Me apasiona emprender, y tengo una visión clara de cómo las tecnologías pueden transformar negocios, mejorar procesos y crear experiencias únicas para los usuarios.  Estoy en busca de oportunidades donde pueda aportar mi experiencia, aprender de otros y crecer como profesional. Mi motivación no solo se basa en lograr resultados, sino en hacer parte de equipos que estén dispuestos a desafiar el status quo y llevar las ideas al siguiente nivel. Si eres parte de un proyecto que necesita visión, habilidades técnicas y mucha energía, ¡estoy listo para unirme a tu equipo!  Con una actitud proactiva y un enfoque constante en mejorar, estoy ansioso de aportar mi experiencia y continuar creciendo en este emocionante mundo de la programación y el emprendimiento. Si tienes un proyecto o una idea que quieras hacer realidad, ¡no dudes en contactarme!  ---  Este texto está diseñado para destacar tu experiencia, tu pasión por emprender y tu disposición a unirte a proyectos interesantes. ¡Espero que te sirva!&icon=0&color=0)](https://visitcount.itsvg.in)
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<i>Follow me around the web:</i><br>
+
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
+  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+</div>
+
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
+
+<!--
+**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+-----
+Credits: [ABSphreak](https://github.com/ABSphreak)
+
+Last Edited on: 30/08/2020
